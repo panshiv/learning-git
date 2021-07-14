@@ -10,4 +10,5 @@ git restore--staged file name ->unstages the file_name
 git branch ->show the current and all branches in a rep
 git log ->shows the commit logs
 git reset-- soft HEAD~1 ->resets the repo to previous commit
+git checkout branch_name -> switch us to diffrent branch
 ```
